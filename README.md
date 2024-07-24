@@ -1,6 +1,12 @@
 # apartment
 
-A new Flutter project.
+![](animation.png)
+
+![](Home.png)
+
+![](StreetDirectory.png)
+
+![](ApartmentDetails.png)
 
 ## Getting Started
 
