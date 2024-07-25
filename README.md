@@ -13,3 +13,10 @@ The street directory includes the listed streets that are inside of  GCH, this d
 The Apartment details contains images, with details of each apartment that is in the street directory including (capacities, number of rooms, size of the apartment , and the price). In this tab, you can also search which street you would like to look at in finding an apartment you want. - Yasmin Galak
 
 Description - Mariane Arellano
+
+
+## GROUP MEMBERS
+-ARELLANO, MARIANE
+-GALAK, YASMIN
+-MARANAN, AIRA MAE
+-NOHAY, JEWEL IRISH
