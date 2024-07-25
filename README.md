@@ -1,5 +1,13 @@
 # apartment
 
+<img src="animation.png" width="100" height="10">
+
+<img src="Home.png" width="100" height="10">
+
+<img src="StreetDirectory.png" width="100" height="10">
+
+<img src="ApartmentDetails.png" width="100" height="10">
+
 This Splash Screen API lets apps launch with animation, including an intro-app motion at launch, a splash screen showing the app icon, and a transition.
 ![](animation.png)
 
