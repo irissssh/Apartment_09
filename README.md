@@ -4,6 +4,8 @@
 # Overview
 
 An apartment app with a home screen, street directory, and detailed apartment information offers a seamless and user-friendly experience. The home screen provides a personalized welcome, and description about GCH Apartment. The street directory allows users to explore the name of landlord/caretaker, contact, and availabity of apartment. Apartment details include comprehensive information like photos, name, contact, and availability.
+<img src="animation.png" width="200" height="230">
+This Splash Screen API lets apps launch with animation, including an intro-app motion at launch, a splash screen showing the image, and a transition. - 
 
 <img src="Home.png" width="200" height="230">
 It contains the introduction where it is used for the process of running the  application . It includes the details of the Golden Country Home that is used for performing this app. - Jewel Irish Nohay
@@ -16,21 +18,11 @@ The Apartment details contains images, with details of each apartment that is in
 
 Description - Mariane Arellano
 
-# Members
-Arellano, Mariane
-Galak, Yasmin
-Maranan, Aira Mae
-Nohay, Jewel Irish
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## GROUP MEMBERS
+-ARELLANO, MARIANE
+-GALAK, YASMIN
+-MARANAN, AIRA MAE
+-NOHAY, JEWEL IRISH
