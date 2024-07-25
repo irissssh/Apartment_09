@@ -1,7 +1,7 @@
 # apartment
 
 <img src="animation.png" width="200" height="230">
-This Splash Screen API lets apps launch with animation, including an intro-app motion at launch, a splash screen showing the app icon, and a transition. - 
+This Splash Screen API lets apps launch with animation, including an intro-app motion at launch, a splash screen showing the image, and a transition. - 
 
 <img src="Home.png" width="200" height="230">
 It contains the introduction where it is used for the process of running the  application . It includes the details of the Golden Country Home that is used for performing this app. - Jewel Irish Nohay
