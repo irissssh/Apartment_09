@@ -1,17 +1,15 @@
 # apartment
 
-<img src="animation.png" width="100" height="100">
+<img src="animation.png" width="150" height="150">
 This Splash Screen API lets apps launch with animation, including an intro-app motion at launch, a splash screen showing the app icon, and a transition.
 
-<img src="Home.png" width="100" height="100">
+<img src="Home.png" width="150" height="150">
 It contains the introduction where it is used for the process of running the  application . It includes the details of the Golden Country Home that is used for performing this app. 
-![]
 
-<img src="StreetDirectory.png" width="100" height="100">
+<img src="StreetDirectory.png" width="150" height="150">
 The street directory includes the listed streets that are inside of  GCH, this directory contains the details and address of each street in the apartment finder. It is also directed for the apartment details.
-![]
 
-<img src="ApartmentDetails.png" width="100" height="100">
+<img src="ApartmentDetails.png" width="150" height="150">
 The Apartment details contains images, with details of each apartment that is in the street directory including (capacities, number of rooms, size of the apartment , and the price). In this tab, you can also search which street you would like to look at in finding an apartment you want.
 
 
