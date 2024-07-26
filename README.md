@@ -1,6 +1,4 @@
 # Apartment
-<img src="animation.png" width="300" height="230">
-
 # Overview
 
 An apartment app with a home screen, street directory, and detailed apartment information offers a seamless and user-friendly experience. The home screen provides a personalized welcome, and description about GCH Apartment. The street directory allows users to explore the name of landlord/caretaker, contact, and availabity of apartment. Apartment details include comprehensive information like photos, name, contact, and availability.
@@ -18,11 +16,8 @@ The Apartment details contains images, with details of each apartment that is in
 
 Description - Mariane Arellano
 
-
-## Getting Started
-
 ## GROUP MEMBERS
--ARELLANO, MARIANE
--GALAK, YASMIN
--MARANAN, AIRA MAE
--NOHAY, JEWEL IRISH
+- **ARELLANO, MARIANE
+- **GALAK, YASMIN
+- **MARANAN, AIRA MAE
+- **NOHAY, JEWEL IRISH
