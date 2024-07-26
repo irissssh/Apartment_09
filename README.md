@@ -1,7 +1,7 @@
 # Apartment
 # Overview
 
-An apartment app with a home screen, street directory, and detailed apartment information offers a seamless and user-friendly experience. The home screen provides a personalized welcome, and description about GCH Apartment. The street directory allows users to explore the name of landlord/caretaker, contact, and availabity of apartment. Apartment details include comprehensive information like photos, name, contact, and availability.
+An apartment app with a home screen, street directory, and detailed apartment information offers a seamless and user-friendly experience. The home screen provides a personalized welcome, and description about GCH Apartment. The street directory allows users to explore the name of landlord/caretaker, contact, and availabity of apartment. Apartment details include comprehensive information like photos, name, contact, and availability. This application aims just like the Goal 11 of Sustainable Development Goals in which, to make cities safe, resilient, and sustainable. 
 
 
 
